@@ -8,6 +8,7 @@
 4. SQL- (Khan Academy)-https://www.khanacademy.org/computing/computer-programming/sql
 5. Python Programming Language- https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 6. Python EDA- https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
-7. Stats Lectures- https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
-8. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
-9. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
+7. Python Feature Engineering- https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
+8. Stats Lectures- https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+9. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
+10. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
