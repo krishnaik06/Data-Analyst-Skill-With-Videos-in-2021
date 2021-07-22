@@ -10,5 +10,6 @@
 6. Python EDA- https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
 7. Python Feature Engineering- https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
 8. Stats Lectures- https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
-9. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
-10. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
+9. Stats Lectures(Khans Academy)-https://www.khanacademy.org/math/statistics-probability
+10. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
+11. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
