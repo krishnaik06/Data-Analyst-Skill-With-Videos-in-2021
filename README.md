@@ -1,6 +1,6 @@
 # Data-Analyst-Skill-With-Videos-in-2021
 
-# Skills Required For A Data Analyst
+# Skills Required For A Data Analyst in 2021
 
 1. Basic Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_ADx6nJcoTM5t2S1bmsMdm
 2. Advanced Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_e9xmZNPACsLdgie3Tkaxf
